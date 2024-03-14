@@ -4,7 +4,9 @@
   "description": "update",
   "main": "calculator.js",
   "scripts": {
-    "test": "node tests.js"
+    "test": "node tests.js",
+    "build": "cp calculator.js dist/calculator.js"
+
   },
   "repository": {
     "type": "git",
