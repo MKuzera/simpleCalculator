@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.1",
+  "description": "update",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MKuzera/simpleCalculator.git"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Mateusz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MKuzera/simpleCalculator/issues"
+  },
+  "homepage": "https://github.com/MKuzera/simpleCalculator#readme"
+}
