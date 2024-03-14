@@ -5,7 +5,7 @@
   "main": "calculator.js",
   "scripts": {
     "test": "node tests.js",
-    "build": "cp calculator.js calculator.js"
+    "build": "cp calculator.js dist/calculator.js"
 
   },
   "repository": {
