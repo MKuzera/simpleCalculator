@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+  build:
+    build:
+      context: .
+      dockerfile: DockerfileBuild
+
+  test:
+    build:
+      context: .
+      dockerfile: DockerfileTest
+    depends_on:
+      - build

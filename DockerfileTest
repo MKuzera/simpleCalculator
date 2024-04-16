@@ -1,0 +1,3 @@
+FROM nr1
+
+CMD ["npm", "run", "test"]
